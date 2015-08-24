@@ -13,7 +13,7 @@ import time
 begin = time.clock() #record begin time
 # add start path
 root = r"E:\ferridey\Calibre Library"
-save = open(r"d:\python\save.dat","w")
+save = open(r"d:\save.dat","w")
 count = 0
 pdf = 0
 mobi = 0
