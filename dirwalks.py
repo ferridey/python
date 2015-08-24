@@ -11,6 +11,7 @@ import os
 import time
 
 begin = time.clock() #record begin time
+# add start path
 root = r"E:\ferridey\Calibre Library"
 save = open(r"d:\python\save.dat","w")
 count = 0
