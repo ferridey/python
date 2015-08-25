@@ -1,0 +1,22 @@
+总用量 256
+drwxr-xr-x  4 ferridey video      4096  8月 25 22:29 .
+drwxr-xr-x 10 ferridey ferridey   4096  8月 24 17:46 ..
+-rw-r--r--  1 ferridey video      1281  8月 25 22:09 class.py
+-rw-r--r--  1 ferridey video       501  8月 24 17:38 demo1.py
+-rw-r--r--  1 ferridey video       903  8月 24 17:38 dirwalks.py
+-rw-r--r--  1 ferridey video     38443  8月 23 19:55 ftplib.py
+-rw-r--r--  1 ferridey ferridey    234  7月 18 14:46 getos.py
+drwxr-xr-x  8 ferridey video      4096  8月 25 22:08 .git
+drwxr-xr-x  2 ferridey video      4096  8月 24 18:13 hard
+-rw-r--r--  1 ferridey video      1281  8月 24 17:38 inherit.py
+-rw-r--r--  1 ferridey video      1274  8月 25 22:15 ~.list.dat
+-rw-r--r--  1 ferridey video         0  8月 25 22:29 list.dat
+-rw-r--r--  1 ferridey video         0  8月 24 17:38 new.md
+-rw-r--r--  1 ferridey video        25  8月 24 17:38 README.md
+-rw-r--r--  1 ferridey video      1757  8月 24 17:38 spider.py
+-rw-r--r--  1 ferridey video       399  8月 25 22:29 system.py
+-rw-------  1 ferridey video     12288  8月 25 22:29 .system.py.swp
+-rw-r--r--  1 ferridey video       115  8月 24 17:38 test.py
+-rw-r--r--  1 ferridey video       629  8月 24 17:38 thread.py
+-rw-r--r--  1 ferridey video    143062  8月 19 22:27 turtle.py
+-rw-r--r--  1 ferridey video       748  8月 24 17:38 user_input.py

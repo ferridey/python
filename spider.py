@@ -67,5 +67,5 @@ while queue:
             queue.append(x)
             print('appending queue ---->'+x)
             log.write(x + os.linesep)
-
+log.close()
 print('总计统计{}个地址。'.format(cnt))
